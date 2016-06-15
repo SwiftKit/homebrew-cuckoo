@@ -1,7 +1,7 @@
 class Cuckoo < Formula
     desc "Command-line tool for generating Cuckoo mock files."
     homepage "https://github.com/SwiftKit/CuckooGenerator"
-    url "https://github.com/SwiftKit/CuckooGenerator.git", :tag => "0.5.0"
+    url "https://github.com/SwiftKit/CuckooGenerator.git", :tag => "0.5.1"
     head "https://github.com/SwiftKit/CuckooGenerator.git"
 
     depends_on "carthage" => :build
